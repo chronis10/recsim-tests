@@ -1,0 +1,7 @@
+# recsim_ng
+# edward2
+recsim
+notebook
+stable-baselines3
+shimmy
+tqdm
